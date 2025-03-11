@@ -24,7 +24,6 @@ dependencies {
 	implementation 'net.javacrumbs.shedlock:shedlock-spring:4.20.0'
 	implementation 'net.javacrumbs.shedlock:shedlock-provider-jdbc-template:4.20.0'
 	implementation 'org.springframework.boot:spring-boot-starter-data-redis'
-	implementation 'org.springframework.boot:spring-boot-starter-data-redis'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
 	implementation 'org.flywaydb:flyway-core'
 	implementation 'mysql:mysql-connector-java'
